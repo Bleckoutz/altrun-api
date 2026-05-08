@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.db
+*.sqlite
+AltRun.db
+appsettings.Development.json
